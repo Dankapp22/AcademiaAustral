@@ -1,5 +1,5 @@
 
-@media (max-width: 768px) {
+@media (max-width: 970px) {
     .contenedorTitulo {
       display: none;
     }
@@ -16,6 +16,8 @@
         width: 100%;
         z-index: 100;
         margin-right: 5rem;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+        overflow: hidden; /* Garantiza que nada se salga del header */
 
       }    
       
@@ -23,7 +25,29 @@
       grid-template-columns: repeat(2, 1fr); /* Dos columnas en pantallas más pequeñas */
     }
 
+/* Estilo del logo */
+.logo img {
+  max-height: 3rem; /* Limita la altura al tamaño del header */
+  height: auto; /* Ajusta proporcionalmente */
+  width: auto; /* Mantiene proporciones */
+  object-fit: contain; /* Asegura que el logo no se deforme */
+  display: block;
+  margin: 0 auto;
+}
+
+/* Contenedor del logo para centrarlo */
+.logo {
+  height: 80%; /* Igual al header */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
   }
+
+  
+
 
 
 
