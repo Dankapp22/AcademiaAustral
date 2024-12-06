@@ -71,7 +71,7 @@
         <div class="auspiciadoresContainer">
             <div class="fotoAuspiciadores">
                 <a href="https://ingesiscl.com/" target="_blank">
-                    <img src="./assets/ingesisSinLetra.png" alt="Ingesis">
+                    <img src="./assets/ingesisFondoNegro.png" alt="Ingesis">
                 </a>
             </div>
             <div class="fotoAuspiciadores">

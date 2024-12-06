@@ -3,10 +3,10 @@
         <div class="redes-sociales">
             <h3>Síguenos en redes sociales</h3>
             <a href="https://www.instagram.com/academia_austral/?hl=es" target="_blank">
-                <img src="./assets/instagram.png" alt="Instagram">
+                <img src="./assets/instagramB.png" alt="Instagram">
             </a>
             <a href="https://www.facebook.com/p/academia-de-f%C3%BAtbol-austral-100065058398032/" target="_blank">
-                <img src="./assets/facebook.png" alt="Facebook">
+                <img src="./assets/facebookB.png" alt="Facebook">
             </a>
         </div>
         <div class="descubre-app">
