@@ -69,6 +69,10 @@
             <p>"He tenido la suerte de participar en las dos versiones de la Austral Cup, tanto la de Dos Esteros como la de los Viejos Crack y ambas han sido tremendas experiencias. Si tengo que destacar algo de los campeonatos, en especial del último Austral, el de viejos crack, es la innovación y la originalidad de sus características, ambos han sido de los mejores en los que he participado, cada uno con cosas que, yo por lo menos, no he visto en otros campeonatos de la ciudad. Como por ejemplo la inauguración, la cantidad de categorías participantes e incluso una aplicación donde ver los resultados. Y finalmente, la que para mi es la mejor característica de los Austral Cup, es el buen ambiente que se vive, tanto adentro de la cancha como afuera, la buena organización hace que se viva una verdadera fiesta del fútbol, en la que como jugador, he podido experimentar experiencias súper enriquecedoras y placenteras"</p>
             <span>- César Oyarzún, jugador Sub 20 Academia Austral</span>
         </div>
+        <div class="testimonial">
+            <p>"Participé del torneo austral cup y fue una muy buena experiencia, los horarios bastante accesibles el ambiente era competitivo pero siempre amistoso, la gente que organizó el evento 10/10 hasta crearon una app para seguir los partidos, hay harto nivel y espero se haga de nuevo el 2025"</p>
+            <span>- Agustín Villalobos, jugador Punto Deportivo </span>
+        </div>
     </div>
     <button class="prev-btn" onclick="moveSlide(-1, 'testimonial-carousel')">&#10094;</button>
     <button class="next-btn" onclick="moveSlide(1, 'testimonial-carousel')">&#10095;</button>
