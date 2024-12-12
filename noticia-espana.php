@@ -6,6 +6,7 @@
     <title>Academia de Fútbol Austral en la Donosti Cup: Un Sueño Hecho Realidad!</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="mediaqueries.css">
+    <link rel="shortcut icon" href="./assets/austral.ico">
 
 
 </head>

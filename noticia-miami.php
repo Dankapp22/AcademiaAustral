@@ -6,6 +6,7 @@
     <title>Academia de Fútbol Austral en Miami: ¡Que buen viaje!</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="mediaqueries.css">
+    <link rel="shortcut icon" href="./assets/austral.ico">
 
 
 </head>

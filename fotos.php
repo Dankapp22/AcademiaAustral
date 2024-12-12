@@ -6,6 +6,7 @@
     <title>Galería Austral Cup y Winter Cup</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="mediaqueries.css">
+    <link rel="shortcut icon" href="./assets/austral.ico">
 </head>
 <body>
     <?php include 'nav.php'; ?>
