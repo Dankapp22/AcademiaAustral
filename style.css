@@ -349,19 +349,18 @@ a:hover {
 }
 
 .botonSede {
-  background-color: rgba(17,17,194,1); /* Green */
+  background-color: rgba(17,17,194,1); /* Azul */
   border: none;
   color: white;
-  padding: 32px 64px;
+  padding: 2rem 4rem; /* Unidades relativas para padding */
   text-align: center;
   text-decoration: none;
   display: inline-block;
   border-radius: 2rem;
-  font-size: 32px;
-  margin: 8px 4px;
+  font-size: 2rem; /* Tamaño relativo de fuente */
+  margin: 1rem 0.5rem; /* Márgenes relativos */
   transition-duration: 0.4s;
   cursor: pointer;
-
 }
 
 .botonSede:hover {
@@ -827,6 +826,8 @@ font-size: 32px;
   background: #f9f9f9;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px; /* Limita el ancho en pantallas más grandes */
+  margin: 0 auto; /* Centra el testimonial */
 }
 
 .testimonial p {

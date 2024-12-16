@@ -22,7 +22,14 @@
       }    
       
       .metanoticiasContainer {
-      grid-template-columns: repeat(2, 1fr); /* Dos columnas en pantallas más pequeñas */
+        grid-template-columns: repeat(2, 1fr); /* 1 columna para teléfonos grandes */
+        grid-gap: 1.5rem; /* Más espacio entre las noticias */
+      }
+    
+      .noticiasContainer {
+        padding: 1.5rem; /* Aumenta el padding para teléfonos */
+        margin: 1.5rem;
+      }
     }
 
 /* Estilo del logo */
@@ -43,9 +50,60 @@
   justify-content: center;
 }
 
+.testimonial {
+  padding: 15px; /* Reduce el padding */
+  font-size: 1rem; /* Reduce el tamaño de fuente */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Menos sombra */
+}
+
+.testimonial span {
+  margin-top: 8px; /* Ajusta el espacio superior */
+  font-size: 0.9rem; /* Tamaño más pequeño */
+}
+
+.botonSede {
+  padding: 1.5rem 3rem; /* Reduce el padding */
+  font-size: 1.5rem; /* Reduce el tamaño de fuente */
+  border-radius: 1.5rem; /* Reduce el redondeo */
+}
+
+
+
+
+
+  @media (max-width: 480px) {
+    .testimonial {
+      padding: 10px; /* Aún más reducido en teléfonos pequeños */
+      font-size: 0.9rem; /* Fuente más compacta */
+      border-radius: 5px; /* Menos curva en bordes */
+    }
+  
+    .testimonial span {
+      margin-top: 6px;
+      font-size: 0.8rem; /* Fuente aún más pequeña */
+    }
+    .botonSede {
+      padding: 1rem 2rem; /* Padding aún más pequeño */
+      font-size: 1.2rem; /* Fuente más compacta */
+      border-radius: 1rem; /* Redondeo menor */
+    }
+
+    .metanoticiasContainer {
+      grid-template-columns: repeat(2, 1fr); /* 1 columna */
+      grid-gap: 2rem; /* Aumenta el espacio en pantallas muy pequeñas */
+    }
+  
+    .noticiasContainer {
+      padding: 1rem; /* Reduce el padding en teléfonos pequeños */
+      margin: 1rem;
+      font-size: 0.8rem; /* Ajusta el texto si es necesario */
+    }
+
+    .botonNoticia {
+      font-size: 0.9rem;
+    }
 
   }
-
   
 
 
