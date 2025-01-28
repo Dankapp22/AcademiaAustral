@@ -956,7 +956,7 @@ medio autorizado para la venta de comida durante el Campeonato. </p>
 
 <div class="bases"><h2>Bases del campeonato</h2>
     <p>¡Para conocer las bases de nuestro campeonato presiona el botón!</p>
-    <button onclick="window.open('./docs/basesProx.pdf', '_blank')" class="button botonBase">Bases</button>
+    <button onclick="window.open('./docs/basesAustral.pdf', '_blank')" class="button botonBase">Bases</button>
 
     <h2>¿Por qué participar del Austral Cup 2025?</h2>
     <ul>
