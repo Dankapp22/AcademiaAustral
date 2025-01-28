@@ -46,7 +46,17 @@ Inscripciones ¡de 3 a 20 años!, contamos con entrenamientos dinámicos
         <button class="prev-btn" onclick="moveSlide(-1, 'image-carousel')">&#10094;</button>
         <button class="next-btn" onclick="moveSlide(1, 'image-carousel')">&#10095;</button>
     </div>
-    <div class="contact-form">
+    <div class="inscripciones">
+    <h2>¿Quieres unirte a la Academia Austral?</h2>
+    <p>Si quieres inscribirte a la Academia, puedes contactarte con nosotros
+        vía teléfonica, con <strong>Marco Alvarado</strong> al siguiente número: <b>+569 76677345</b>
+        o presionar el siguiente botón para hablar por <b>WhatsApp,</b> así como también hablarnos por nuestras redes sociales.
+    </p>
+    <a href="https://wa.me/56976677345?text=%C2%A1Hola%20me%20gustar%C3%ADa%20inscribirme%20a%20Academia%20Austral!" target="_blank">
+        <button class="button botonNoticia">¡Quiero Ingresar!</button>
+    </a>
+</div>
+    <!-- <div class="contact-form">
         <h2>¿Quieres formar parte de la Academia Austral? ¡Contáctanos!</h2>
         <form action="enviar-formulario.php" method="post">
             <label for="nombre">Nombre:</label>
@@ -63,7 +73,7 @@ Inscripciones ¡de 3 a 20 años!, contamos con entrenamientos dinámicos
             
             <button type="submit">Enviar</button>
         </form>
-    </div>
+    </div> -->
 
 </div>
 
