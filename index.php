@@ -76,6 +76,16 @@
                 </a>
             </div>
             <div class="fotoAuspiciadores">
+                <a href="https://www.puertomontt.cl/" target="_blank">
+                    <img src="./assets/muni.png" alt="Municipalidad de Puerto Montt">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://www.uach.cl/uach/inicio-uach" target="_blank">
+                    <img src="./assets/uach.png" alt="UACh">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
                 <a href="https://www.camanchaca.cl/" target="_blank">
                     <img src="./assets/camanchaca.png" alt="Salmones Camanchaca">
                 </a>
@@ -88,6 +98,81 @@
             <div class="fotoAuspiciadores">
                 <a href="https://www.facebook.com/MongenKo.Aguas/?locale=es_LA" target="_blank">
                     <img src="./assets/mongenko.png" alt="Mongenko">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://comercialbinder.cl/" target="_blank">
+                    <img src="./assets/binder.png" alt="Comercial Binder">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://www.trendy.cl/" target="_blank">
+                    <img src="./assets/trendy.png" alt="Trendy">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://acortar.link/G7kObD" target="_blank">
+                    <img src="./assets/sake.png" alt="Sake">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://www.australpack.cl/" target="_blank">
+                    <img src="./assets/australpack.png" alt="Austral Pack">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://www.google.cl/?hl=es" target="_blank">
+                    <img src="./assets/servisur.png" alt="Servicios Del Sur">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://cl.sodexo.com/" target="_blank">
+                    <img src="./assets/sodexo.png" alt="Sodexo">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://www.instagram.com/bym_deportes/?hl=es-la" target="_blank">
+                    <img src="./assets/bymdeportes.png" alt="B&M Deportes">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://www.sgsecurity.cl/" target="_blank">
+                    <img src="./assets/sg.png" alt="SG Seguridad">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://oncesbellavista.cl/" target="_blank">
+                    <img src="./assets/bellavista.png" alt="Onces y Cabañas Bellavista">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://sectormanicure.site.agendapro.com/cl/sucursal/70648" target="_blank">
+                    <img src="./assets/manicure.png" alt="Sector Manicure">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://www.sinapsispv.cl/resonancia-magnetica/" target="_blank">
+                    <img src="./assets/sinapsis.png" alt="Sinapsis">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://www.instagram.com/lunasol_panaderia_puertomontt/?hl=es" target="_blank">
+                    <img src="./assets/lunasol.png" alt="Luna Sol Panadería">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://acortar.link/IZ844u" target="_blank">
+                    <img src="./assets/bacar.png" alt="Bacar">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://acortar.link/Z3S6w7" target="_blank">
+                    <img src="./assets/alfredo.png" alt="Alfredo Oelckers">
+                </a>
+            </div>
+            <div class="fotoAuspiciadores">
+                <a href="https://www.instagram.com/aguainspira/" target="_blank">
+                    <img src="./assets/agua.png" alt="Inspira">
                 </a>
             </div>
 
